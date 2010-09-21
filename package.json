@@ -1,0 +1,10 @@
+{
+  "name" : "authorization",
+  "version" : "0.1.0",
+  "author" : "Christopher Hlubek <hlubek@networkteam.com>",
+  "description" : "A simple authorization rule library for node.js",
+  "keywords" : ["authorization", "security"],
+  "engines" : ["node"],
+  "directories" : { "lib" : "lib" },
+  "main" : "lib/authorization"
+}
